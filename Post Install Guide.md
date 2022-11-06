@@ -36,4 +36,21 @@ Like DirectX Runtimes, it is recommended that you install Visual C++ now to avoi
 
 ## Packages 
 * Use WinGet to Install these packages automatically.
->
+> 7zip
+> Brave
+> Ferdium
+> HWinfo
+> Logseq
+> Pcloud
+> OBS Studio
+> Motrix
+> Playnite
+> Firefox
+> Powertools
+> Microsoft PCManager
+> Redgear Drivers
+> Ryzen Controller
+> Stremio
+> Telegram
+> Whatsapp
+> VLC Media Player
