@@ -35,7 +35,7 @@ Like DirectX Runtimes, it is recommended that you install Visual C++ now to avoi
   * Once downloaded, extract the .zip file and run the installer.
 
 ## Packages 
-* Use WinGet to Install these packages automatically.
+* Here are some packages that I use and would recommend using.
 > 7zip
 > Brave
 > CTT Windows Utility
@@ -54,5 +54,9 @@ Like DirectX Runtimes, it is recommended that you install Visual C++ now to avoi
 > Ryzen Controller
 > Stremio
 > Telegram
-> Whatsapp
 > VLC Media Player
+
+* MS Store Packages
+> Whatsapp
+> Voice Recorder
+> Photos
