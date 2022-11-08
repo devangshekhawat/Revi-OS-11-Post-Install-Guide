@@ -33,6 +33,9 @@ Like DirectX Runtimes, it is recommended that you install Visual C++ now to avoi
   * Go to the [vcredist GitHub Page](https://github.com/abbodi1406/vcredist/releases).
   * Under Assets, download the latest VisualCppRedist.zip file.
   * Once downloaded, extract the .zip file and run the installer.
+  
+## Drivers
+* Get the drivers for your specific hardware from the vendor's site since Revision ships with Windows update disabled by default.
 
 ## Packages 
 * Here are some packages that I use and would recommend using.
